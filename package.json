@@ -1,7 +1,7 @@
 {
   "name": "portfolio-react-app",
   "version": "0.1.0",
-  "homepage": "https://github.com/vaishnavisatpute14/-vaishnavisatpute14-Portfolio",
+  "homepage": "https://github.com/vaishnavisatpute14/Portfolio",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
